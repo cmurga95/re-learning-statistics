@@ -14,6 +14,7 @@ def permutations(n,k):
     Permutation rule
     Number of permutations k taken from a set of n elements
     Distinct multiplication rule
+    Permutations are with replacement
     
     (n)
     | | = n!/((n-k)!)
